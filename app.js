@@ -35,3 +35,13 @@ app.post('/register', async (req, res) => {
 app.listen(port, () => {
     console.log(`Server is running on http://localhost:${port}`);
 });
+if(n<=1)
+{
+     return true ;
+int fact = 0;
+    for (int i =0;i<=n;i++){
+        if(fact<=0&& fact <=1)
+            Systemo.out.print("Not Correct ");
+            retur true;
+        else {
+            System.out.println("It is Correct the formate ");
